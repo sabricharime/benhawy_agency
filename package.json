@@ -1,0 +1,14 @@
+{
+  "name": "benhawy",
+  "version": "1.0.0",
+  "main": "main.ts",
+  "repository": "https://github.com/sabricharime/benhawy_agency",
+  "author": "sabri charime",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.7.9",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.6.3"
+  }
+}
