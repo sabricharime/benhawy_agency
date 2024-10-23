@@ -1,3 +1,4 @@
-const num : number = 1 
+import express from "express"
 
-console.log(num)
+
+const app = express()
